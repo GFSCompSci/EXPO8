@@ -1,4 +1,4 @@
-#import turtle funtion from library
+#Open Terminal. Type in Python; import turtle funtion from library
 from turtle import Turtle
 #assign the turtle object to a variable
 jude = Turtle()
